@@ -1,0 +1,68 @@
+
+#banner {
+	background: url(surfCars.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 675px;
+	width: 100%;
+
+}
+
+#box1 {
+	color: yellow;
+	background-color: black;
+	text-align: right;
+
+
+}
+
+#box2 {
+	background-color: b50e;
+	top: 100px;
+
+}
+
+
+#box3 {
+	background-color: gray;
+	position: relative;
+	top: 130px;
+	width: 1000px;
+	margin: left;
+	padding-left: 25px;
+	font-size: 45px;
+	color: white;
+	display: inline-block;
+
+}
+
+#box4 {
+	background-color: gray;
+	position: relative;
+	top: 135px;
+	width: 1000px;
+	margin: left;
+	padding-left: 25px;
+	font-size: 25px;
+	color: white;
+	display: inline-flex;
+}
+
+.share a {
+  	color: white;
+  	display: inline-block;
+  	margin: 10px;
+  	padding: 14px;
+  	text-decoration: none;
+}
+
+.share {
+	background-color: gray;
+}
+
+
+
+
+
+
+
